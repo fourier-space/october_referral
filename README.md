@@ -7,7 +7,7 @@ You are **NOT** allowed to receive or ask for assistance from any individual suc
 
 ## How to Complete the Assessment
 
-1. Clone this repository on your own computer.
+1. Fork this repository and clone on your own computer.
 
 2. Commit your answers and push them to your repo on GitHub. You can (and are encouraged) to do this continuously as you work on the questions.
 
