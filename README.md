@@ -15,6 +15,8 @@ You are **NOT** allowed to receive or ask for assistance from any individual suc
 
 4. Your final answers must be pushed by the deadline at **11:00 (2 hours after the timed start)** Any pushed commits after this time will not be considered for marks. 
 
+5. Send Freddie your repository link by the deadline.
+
 ## Marking Rubrics
 Detailed marking rubrics can be seen at the top of the Python file for each question. 
 
